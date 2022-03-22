@@ -1,4 +1,4 @@
-# Make-a-Clock-using-Python
+<h1 align="center"> Make-a-Clock-using-Python<h1>
 
 - Install all importent pip
 - make a clock using python
@@ -74,4 +74,4 @@ clock()
 root.mainloop()
 ```
 ---
-<h1>THANK YOU </h1>
+<h1 align="center">THANK YOU </h1>
